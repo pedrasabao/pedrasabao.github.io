@@ -51,6 +51,10 @@ a {
   transition:  color 300ms, background-color 300ms;
 }
 
+.centerTitleProd{
+  text-align: center;
+}
+
 a:hover, a:focus {
   color: #d43133;
 }
@@ -60,6 +64,20 @@ hr {
   border-bottom: 1px solid #fff;
 }
 
+.textEmp{
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.imgEmp{
+  width: 100%;
+  border: 1px solid black;
+}
+
+.imgCont{
+  width: 100%;
+  border: 1px solid black;
+}
 
 .btn-primary {
   padding: 8px 20px;
